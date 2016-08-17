@@ -17,7 +17,7 @@ before following the steps below.
 
 Add this image as a button on your website:
 
-![pokeauth button](https://github.com/thisbejim/poke/blob/master/pokeauth-button.png)
+![pokeauth button](https://github.com/thisbejim/pokeauth/blob/master/pokeauth-button.png)
 
 In your [dashboard](https://www.pokeauth.com/developer/dashboard) you will find a url that looks like this:
 
