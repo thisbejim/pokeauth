@@ -22,7 +22,7 @@ Add this image as a button on your website:
 In your [dashboard](https://www.pokeauth.com/developer/dashboard) you will find a url that looks like this:
 
 ```
-https://www.pokeauth/access/I5ulSrNsYgS034wtO1d0kSswSiu1
+https://www.pokeauth.com/access/I5ulSrNsYgS034wtO1d0kSswSiu1
 ```
 
 When users click the PokeAuth button you should send your users to this url.
