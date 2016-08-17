@@ -69,3 +69,11 @@ await pokeauth.login(email, password);
 const user = await pokeauth.getUserToken(uid);
 console.log(user.accessToken, user.provider);
 ```
+
+It is recommended that you use this library with [pogobuff](https://github.com/cyraxx/pogobuf).
+
+Example:
+```
+client = new pogobuf.Client();
+client.setAuthInfo(user.provider, user.accessToken);
+```
