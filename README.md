@@ -1,4 +1,4 @@
-# PokeAuth
+# PokeAuth  ![downloads](https://stark-waters-86589.herokuapp.com/)
 
 A helper library for developers using [PokeAuth](https://www.pokeauth.com).
 
